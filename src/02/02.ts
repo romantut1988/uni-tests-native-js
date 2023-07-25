@@ -23,7 +23,7 @@ const student = {
     age: 34,
     isActive: false,
     address: {
-        streetTitle: "Surganova 12",
+        streetTitle: "Surganova 2",
         city: {
             title: "Minsk",
             countryTitle: "Belarus"
